@@ -1,7 +1,7 @@
 k=int(input())
-bl=list(map(int,input().split()))
-d=min(bl)
-v=max(b1)
+bp=list(map(int,input().split()))
+d=min(bp)
+v=max(bp)
 print(d,v)
 
 
