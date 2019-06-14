@@ -1,0 +1,5 @@
+z,x=(input().split())
+z=int(z)
+x=int(x)
+temp=list(map(int,input().split()))
+print(temp.count(x))
